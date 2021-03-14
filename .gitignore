@@ -1,0 +1,10 @@
+CMakeFiles/
+cmake-build-debug/
+*.gch
+CMakeCache.txt
+out/
+.idea/
+Makefile
+rcon_client
+cmake_install.cmake
+rcon_client.cbp
